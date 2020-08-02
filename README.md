@@ -1,6 +1,6 @@
 # Sentinel analysis - SWIVEL
 
-![alt text](https://github.com/tankwin08/sentiment_analysis_SWIVEL/blob/master/figs/sentiment_analysis_SWIVEL.png)
+![alt text](https://github.com/tankwin08/sentiment_analysis_SWIVEL/blob/master/figs/nlp_flowchart.png)
 
 ## Objetive
 
